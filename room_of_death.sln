@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "room_of_death", "room_of_death\room_of_death.vcxproj", "{8EFAD5E1-30B6-4BBB-BCF4-F8474E6A45FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EFAD5E1-30B6-4BBB-BCF4-F8474E6A45FD}.Debug|x64.ActiveCfg = Debug|x64
+		{8EFAD5E1-30B6-4BBB-BCF4-F8474E6A45FD}.Debug|x64.Build.0 = Debug|x64
+		{8EFAD5E1-30B6-4BBB-BCF4-F8474E6A45FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{8EFAD5E1-30B6-4BBB-BCF4-F8474E6A45FD}.Debug|x86.Build.0 = Debug|Win32
+		{8EFAD5E1-30B6-4BBB-BCF4-F8474E6A45FD}.Release|x64.ActiveCfg = Release|x64
+		{8EFAD5E1-30B6-4BBB-BCF4-F8474E6A45FD}.Release|x64.Build.0 = Release|x64
+		{8EFAD5E1-30B6-4BBB-BCF4-F8474E6A45FD}.Release|x86.ActiveCfg = Release|Win32
+		{8EFAD5E1-30B6-4BBB-BCF4-F8474E6A45FD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8344873C-F157-49AF-977A-FE0B3D634B47}
+	EndGlobalSection
+EndGlobal
